@@ -6,11 +6,11 @@
   alt="Dronie Logo" 
 >
 </p>
-<h2 style="text-align: center"> Front End </h2>
 
 ---  
 
 <h3 style="text-align: center"> Welcome to Dronie </h3>
+<h4> Follow the links below to the corresponding repos </h4>
 
 Front end Repo: [https://github.com/dsasse07/dronie-frontend](https://github.com/dsasse07/dronie-frontend)
 
