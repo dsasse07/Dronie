@@ -12,7 +12,7 @@
 <h3 style="text-align: center"> Welcome to Dronie </h3>
 <h4> Follow the links below to the corresponding repos </h4>
 
-<p> Frontend Repo:[https://github.com/dsasse07/dronie-frontend](https://github.com/dsasse07/dronie-frontend) </p>
-<p> Backend Repo: [https://github.com/dsasse07/dronie-backend](https://github.com/dsasse07/dronie-backend) </p>
+* Frontend Repo:[https://github.com/dsasse07/dronie-frontend](https://github.com/dsasse07/dronie-frontend)
+* Backend Repo: [https://github.com/dsasse07/dronie-backend](https://github.com/dsasse07/dronie-backend)
 
 
